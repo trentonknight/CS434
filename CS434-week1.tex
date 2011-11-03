@@ -4,10 +4,8 @@
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}
-\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 \usetikzlibrary{calc,shapes,arrows,automata,trees,shadows,decorations.pathmorphing,positioning, shapes.misc,shapes.arrows,chains,matrix,scopes,decorations.pathmorphing,backgrounds}
-
-
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
 \begin{document}
 %
@@ -18,7 +16,14 @@
 
 \textsc{\color{Sepia}{\LARGE CS~434}}\\[1.5cm]
 \textsc{\Large Week~Two}\\[0.5cm]
-\includegraphics[scale=0.5]{GDP}\\
+%graphic
+\begin{tikzpicture}
+  [inner sep=13mm, place/.style={circle,draw=blue!50,fill=blue!20,thick},
+   transition/.style={rectangle,draw=brown!50,fill=orange!20,thick}]
+\node at ( 0,0) [transition] {};
+  \node at ( 2,  -4) [transition] {};
+  \node at (-2, -4) [transition] {};
+\end{tikzpicture}
 % Title
 \HRule \\[0.4cm]
 { \huge \bfseries O O Programming Java}\\[0.4cm]

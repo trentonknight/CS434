@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  3 NOV 2011 17:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  3 NOV 2011 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -639,20 +639,20 @@ File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
 ) (./CS434-week1.aux)
 \openout1 = `CS434-week1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -684,7 +684,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 10.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -694,9 +694,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count126
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
 
 (./CS434-week1.out) (./CS434-week1.out)
 \@outlinefile=\write4
@@ -704,76 +704,69 @@ LaTeX Info: Redefining \nameref on input line 12.
 
 
 
-Package xcolor Warning: Incompatible color definition on input line 19.
+Package xcolor Warning: Incompatible color definition on input line 17.
 
-<GDP.png, id=79, 641.7576pt x 292.6935pt>
-File: GDP.png Graphic file (type png)
- <use GDP.png>
-Package pdftex.def Info: GDP.png used on input line 21.
-(pdftex.def)             Requested size: 320.878pt x 146.34639pt.
 LaTeX Font Info:    Try loading font information for OT1+iwonalm on input line 
-34.
-
+39.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/iwona/ot1iwonalm.fd
 File: ot1iwonalm.fd 2005/10/05 v1.2 font definition file for OT1/iwonalm (MW)
 )
 LaTeX Font Info:    Try loading font information for OML+iwonal on input line 3
-4.
+9.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/iwona/omliwonal.fd
 File: omliwonal.fd 2008/07/22 v0.995 font definition file for OML/iwonal (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+iwonal on input line 3
-4.
+9.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/iwona/omsiwonal.fd
 File: omsiwonal.fd 2008/07/22 v0.995 font definition file for OMS/iwonal (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+iwonal on input line 3
-4.
+9.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/iwona/omxiwonal.fd
 File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 ) [1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./GDP.p
-ng>]
-(./CS434-week1.toc)
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./CS43
+4-week1.toc)
 \tf@toc=\write5
 \openout5 = `CS434-week1.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.62 \end{document}
+l.67 \end{document}
                     [1] [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
  (./CS434-week1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `CS434-week1.out' has not changed.
 (rerunfilecheck)             Checksum: 3BF4D13EC5101450FE97CC49200A62FB;734.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 16396 strings out of 493633
- 330813 string characters out of 3143378
+ 16419 strings out of 493633
+ 331451 string characters out of 3143378
  420307 words of memory out of 3000000
- 19354 multiletter control sequences out of 15000+200000
+ 19379 multiletter control sequences out of 15000+200000
  50207 words of font info for 39 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 56i,5n,73p,469b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,6n,73p,469b,573s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/iwona/rm-iwona.enc}{/usr/
 local/texlive/2011/texmf-dist/fonts/enc/dvips/iwona/rm-iwona-sc.enc}</usr/local
 /texlive/2011/texmf-dist/fonts/type1/nowacki/iwona/iwonal.pfb></usr/local/texli
 ve/2011/texmf-dist/fonts/type1/nowacki/iwona/iwonali.pfb></usr/local/texlive/20
 11/texmf-dist/fonts/type1/nowacki/iwona/iwonam.pfb>
-Output written on CS434-week1.pdf (3 pages, 278969 bytes).
+Output written on CS434-week1.pdf (3 pages, 67052 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
+ 131 PDF objects out of 1000 (max. 8388607)
  105 compressed objects within 2 object streams
  18 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
