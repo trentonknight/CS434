@@ -1,14 +1,12 @@
-\contentsline {section}{\numberline {1}Actors}{2}{section.1}
-\contentsline {section}{\numberline {2}Stakeholders and Interests}{2}{section.2}
-\contentsline {section}{\numberline {3}Preconditions}{2}{section.3}
-\contentsline {section}{\numberline {4}Success Guaranteed}{2}{section.4}
-\contentsline {section}{\numberline {5}Main Success Scenario}{2}{section.5}
-\contentsline {subsection}{\numberline {5.1}}{2}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}}{2}{subsection.5.2}
-\contentsline {section}{\numberline {6}Extensions}{2}{section.6}
-\contentsline {subsection}{\numberline {6.1}}{2}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}}{2}{subsection.6.2}
-\contentsline {section}{\numberline {7}Special Requirements}{2}{section.7}
-\contentsline {section}{\numberline {8}Technology and Data Variation List}{2}{section.8}
-\contentsline {section}{\numberline {9}Frequency of Occurrence}{2}{section.9}
-\contentsline {section}{\numberline {10}Open Issues}{2}{section.10}
+\contentsline {section}{\numberline {1}Actors}{1}{section.1}
+\contentsline {section}{\numberline {2}Stakeholders and Interests}{3}{section.2}
+\contentsline {section}{\numberline {3}Preconditions}{3}{section.3}
+\contentsline {section}{\numberline {4}Success Guaranteed}{3}{section.4}
+\contentsline {section}{\numberline {5}Main Success Scenario}{3}{section.5}
+\contentsline {section}{\numberline {6}Extensions}{3}{section.6}
+\contentsline {subsection}{\numberline {6.1}}{3}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}}{3}{subsection.6.2}
+\contentsline {section}{\numberline {7}Special Requirements}{3}{section.7}
+\contentsline {section}{\numberline {8}Technology and Data Variation List}{4}{section.8}
+\contentsline {section}{\numberline {9}Frequency of Occurrence}{4}{section.9}
+\contentsline {section}{\numberline {10}Open Issues}{4}{section.10}
